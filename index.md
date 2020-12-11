@@ -1,8 +1,6 @@
 ## RP-Land
 
-You can use the [editor on GitHub](https://github.com/timof121/timof121.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to RP-Land. It's a fully survival MCBE roleplay server, that everyone can play!
 
 ### Markdown
 
